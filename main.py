@@ -66,3 +66,5 @@ if st.button("🔥 대결!"):
     elif (user_choice == "rock" and computer_choice == "scissors") or \
          (user_choice == "scissors" and computer_choice == "paper") or \
          (user_choice == "paper" and computer_choice == "rock"):
+        result = "🎉 당신이 이겼어요! 🏆"
+
